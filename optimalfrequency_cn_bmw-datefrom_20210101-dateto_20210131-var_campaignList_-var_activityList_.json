@@ -1,0 +1,2488 @@
+{
+  "data": [
+    {
+      "account": "bmw",
+      "click_conversions": 7180,
+      "click_impressions": 7747488,
+      "end_date": "2021-01-31",
+      "flood_conversions": 139919,
+      "flood_impressions": 7845608,
+      "frequency": 4,
+      "period": "month",
+      "reach": 1961402,
+      "start_date": "2021-01-01",
+      "unique_users": 1936872
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2256,
+      "click_impressions": 2907401,
+      "end_date": "2021-01-31",
+      "flood_conversions": 56974,
+      "flood_impressions": 2953839,
+      "frequency": 7,
+      "period": "month",
+      "reach": 421977,
+      "start_date": "2021-01-01",
+      "unique_users": 415343
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1067,
+      "click_impressions": 1372900,
+      "end_date": "2021-01-31",
+      "flood_conversions": 27743,
+      "flood_impressions": 1383550,
+      "frequency": 10,
+      "period": "month",
+      "reach": 138355,
+      "start_date": "2021-01-01",
+      "unique_users": 137290
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 865,
+      "click_impressions": 1089308,
+      "end_date": "2021-01-31",
+      "flood_conversions": 20947,
+      "flood_impressions": 1055054,
+      "frequency": 11,
+      "period": "month",
+      "reach": 95914,
+      "start_date": "2021-01-01",
+      "unique_users": 99028
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 202,
+      "click_impressions": 301397,
+      "end_date": "2021-01-31",
+      "flood_conversions": 1964,
+      "flood_impressions": 270066,
+      "frequency": 19,
+      "period": "month",
+      "reach": 14214,
+      "start_date": "2021-01-01",
+      "unique_users": 15863
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 50,
+      "click_impressions": 99936,
+      "end_date": "2021-01-31",
+      "flood_conversions": 316,
+      "flood_impressions": 93504,
+      "frequency": 32,
+      "period": "month",
+      "reach": 2922,
+      "start_date": "2021-01-01",
+      "unique_users": 3123
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 21,
+      "click_impressions": 51824,
+      "end_date": "2021-01-31",
+      "flood_impressions": 18860,
+      "frequency": 41,
+      "period": "month",
+      "reach": 460,
+      "start_date": "2021-01-01",
+      "unique_users": 1264
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 34,
+      "click_impressions": 79135,
+      "end_date": "2021-01-31",
+      "flood_impressions": 72310,
+      "frequency": 35,
+      "period": "month",
+      "reach": 2066,
+      "start_date": "2021-01-01",
+      "unique_users": 2261
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1,
+      "click_impressions": 20650,
+      "end_date": "2021-01-31",
+      "flood_impressions": 17110,
+      "frequency": 59,
+      "period": "month",
+      "reach": 290,
+      "start_date": "2021-01-01",
+      "unique_users": 350
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 512,
+      "click_impressions": 720668,
+      "end_date": "2021-01-31",
+      "flood_conversions": 14090,
+      "flood_impressions": 721136,
+      "frequency": 13,
+      "period": "month",
+      "reach": 55472,
+      "start_date": "2021-01-01",
+      "unique_users": 55436
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 756,
+      "end_date": "2021-01-31",
+      "frequency": 932494,
+      "period": "month",
+      "start_date": "2021-01-01",
+      "unique_users": 52324
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 43,
+      "click_impressions": 91443,
+      "end_date": "2021-01-31",
+      "flood_impressions": 83589,
+      "frequency": 33,
+      "period": "month",
+      "reach": 2533,
+      "start_date": "2021-01-01",
+      "unique_users": 2771
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 4312,
+      "end_date": "2021-01-31",
+      "flood_impressions": 4312,
+      "frequency": 77,
+      "period": "month",
+      "reach": 56,
+      "start_date": "2021-01-01",
+      "unique_users": 56
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 9724,
+      "end_date": "2021-01-31",
+      "flood_impressions": 9452,
+      "frequency": 68,
+      "period": "month",
+      "reach": 139,
+      "start_date": "2021-01-01",
+      "unique_users": 143
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 9108,
+      "end_date": "2021-01-31",
+      "flood_impressions": 8625,
+      "frequency": 69,
+      "period": "month",
+      "reach": 125,
+      "start_date": "2021-01-01",
+      "unique_users": 132
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 677,
+      "click_impressions": 892284,
+      "end_date": "2021-01-31",
+      "flood_conversions": 14602,
+      "flood_impressions": 897780,
+      "frequency": 12,
+      "period": "month",
+      "reach": 74815,
+      "start_date": "2021-01-01",
+      "unique_users": 74357
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 301,
+      "click_impressions": 437856,
+      "end_date": "2021-01-31",
+      "flood_conversions": 4607,
+      "flood_impressions": 441360,
+      "frequency": 16,
+      "period": "month",
+      "reach": 27585,
+      "start_date": "2021-01-01",
+      "unique_users": 27366
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 243,
+      "click_impressions": 380936,
+      "end_date": "2021-01-31",
+      "flood_conversions": 6555,
+      "flood_impressions": 372079,
+      "frequency": 17,
+      "period": "month",
+      "reach": 21887,
+      "start_date": "2021-01-01",
+      "unique_users": 22408
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 115,
+      "click_impressions": 204401,
+      "end_date": "2021-01-31",
+      "flood_conversions": 1281,
+      "flood_impressions": 181079,
+      "frequency": 23,
+      "period": "month",
+      "reach": 7873,
+      "start_date": "2021-01-01",
+      "unique_users": 8887
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 60,
+      "click_impressions": 101928,
+      "end_date": "2021-01-31",
+      "flood_conversions": 312,
+      "flood_impressions": 89249,
+      "frequency": 31,
+      "period": "month",
+      "reach": 2879,
+      "start_date": "2021-01-01",
+      "unique_users": 3288
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 33,
+      "click_impressions": 69120,
+      "end_date": "2021-01-31",
+      "flood_impressions": 59256,
+      "frequency": 36,
+      "period": "month",
+      "reach": 1646,
+      "start_date": "2021-01-01",
+      "unique_users": 1920
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 15,
+      "click_impressions": 54160,
+      "end_date": "2021-01-31",
+      "flood_impressions": 31840,
+      "frequency": 40,
+      "period": "month",
+      "reach": 796,
+      "start_date": "2021-01-01",
+      "unique_users": 1354
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 13,
+      "click_impressions": 44145,
+      "end_date": "2021-01-31",
+      "flood_impressions": 41985,
+      "frequency": 45,
+      "period": "month",
+      "reach": 933,
+      "start_date": "2021-01-01",
+      "unique_users": 981
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 10,
+      "click_impressions": 29322,
+      "end_date": "2021-01-31",
+      "flood_impressions": 27810,
+      "frequency": 54,
+      "period": "month",
+      "reach": 515,
+      "start_date": "2021-01-01",
+      "unique_users": 543
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 9,
+      "click_impressions": 26506,
+      "end_date": "2021-01-31",
+      "flood_impressions": 22620,
+      "frequency": 58,
+      "period": "month",
+      "reach": 390,
+      "start_date": "2021-01-01",
+      "unique_users": 457
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 5,
+      "click_impressions": 18605,
+      "end_date": "2021-01-31",
+      "flood_impressions": 15311,
+      "frequency": 61,
+      "period": "month",
+      "reach": 251,
+      "start_date": "2021-01-01",
+      "unique_users": 305
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 16064,
+      "end_date": "2021-01-31",
+      "flood_impressions": 9152,
+      "frequency": 64,
+      "period": "month",
+      "reach": 143,
+      "start_date": "2021-01-01",
+      "unique_users": 251
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 4838,
+      "end_date": "2021-01-31",
+      "flood_impressions": 4592,
+      "frequency": 82,
+      "period": "month",
+      "reach": 56,
+      "start_date": "2021-01-01",
+      "unique_users": 59
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 9,
+      "click_impressions": 26023,
+      "end_date": "2021-01-31",
+      "flood_impressions": 24698,
+      "frequency": 53,
+      "period": "month",
+      "reach": 466,
+      "start_date": "2021-01-01",
+      "unique_users": 491
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1,
+      "click_impressions": 4731,
+      "end_date": "2021-01-31",
+      "flood_impressions": 4482,
+      "frequency": 83,
+      "period": "month",
+      "reach": 54,
+      "start_date": "2021-01-01",
+      "unique_users": 57
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 12537,
+      "end_date": "2021-01-31",
+      "flood_impressions": 12096,
+      "frequency": 63,
+      "period": "month",
+      "reach": 192,
+      "start_date": "2021-01-01",
+      "unique_users": 199
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 10557,
+      "click_impressions": 11370522,
+      "end_date": "2021-01-31",
+      "flood_conversions": 189292,
+      "flood_impressions": 11462907,
+      "frequency": 3,
+      "period": "month",
+      "reach": 3820969,
+      "start_date": "2021-01-01",
+      "unique_users": 3790174
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1766,
+      "click_impressions": 2256360,
+      "end_date": "2021-01-31",
+      "flood_conversions": 43718,
+      "flood_impressions": 2274320,
+      "frequency": 8,
+      "period": "month",
+      "reach": 284290,
+      "start_date": "2021-01-01",
+      "unique_users": 282045
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1356,
+      "click_impressions": 1738620,
+      "end_date": "2021-01-31",
+      "flood_conversions": 31486,
+      "flood_impressions": 1752111,
+      "frequency": 9,
+      "period": "month",
+      "reach": 194679,
+      "start_date": "2021-01-01",
+      "unique_users": 193180
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 139,
+      "click_impressions": 245406,
+      "end_date": "2021-01-31",
+      "flood_conversions": 1635,
+      "flood_impressions": 238602,
+      "frequency": 21,
+      "period": "month",
+      "reach": 11362,
+      "start_date": "2021-01-01",
+      "unique_users": 11686
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 104,
+      "click_impressions": 171575,
+      "end_date": "2021-01-31",
+      "flood_conversions": 1854,
+      "flood_impressions": 163750,
+      "frequency": 25,
+      "period": "month",
+      "reach": 6550,
+      "start_date": "2021-01-01",
+      "unique_users": 6863
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 101,
+      "click_impressions": 150852,
+      "end_date": "2021-01-31",
+      "flood_conversions": 771,
+      "flood_impressions": 143936,
+      "frequency": 26,
+      "period": "month",
+      "reach": 5536,
+      "start_date": "2021-01-01",
+      "unique_users": 5802
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 27,
+      "click_impressions": 67044,
+      "end_date": "2021-01-31",
+      "flood_impressions": 59903,
+      "frequency": 37,
+      "period": "month",
+      "reach": 1619,
+      "start_date": "2021-01-01",
+      "unique_users": 1812
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 23,
+      "click_impressions": 38493,
+      "end_date": "2021-01-31",
+      "flood_impressions": 36848,
+      "frequency": 47,
+      "period": "month",
+      "reach": 784,
+      "start_date": "2021-01-01",
+      "unique_users": 819
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 11,
+      "click_impressions": 33450,
+      "end_date": "2021-01-31",
+      "flood_impressions": 27950,
+      "frequency": 50,
+      "period": "month",
+      "reach": 559,
+      "start_date": "2021-01-01",
+      "unique_users": 669
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 8,
+      "click_impressions": 30836,
+      "end_date": "2021-01-31",
+      "flood_impressions": 18824,
+      "frequency": 52,
+      "period": "month",
+      "reach": 362,
+      "start_date": "2021-01-01",
+      "unique_users": 593
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 7,
+      "click_impressions": 25648,
+      "end_date": "2021-01-31",
+      "flood_impressions": 24192,
+      "frequency": 56,
+      "period": "month",
+      "reach": 432,
+      "start_date": "2021-01-01",
+      "unique_users": 458
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 16640,
+      "end_date": "2021-01-31",
+      "flood_impressions": 16055,
+      "frequency": 65,
+      "period": "month",
+      "reach": 247,
+      "start_date": "2021-01-01",
+      "unique_users": 256
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1,
+      "click_impressions": 10366,
+      "end_date": "2021-01-31",
+      "flood_impressions": 6035,
+      "frequency": 71,
+      "period": "month",
+      "reach": 85,
+      "start_date": "2021-01-01",
+      "unique_users": 146
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 4290,
+      "end_date": "2021-01-31",
+      "flood_impressions": 4134,
+      "frequency": 78,
+      "period": "month",
+      "reach": 53,
+      "start_date": "2021-01-01",
+      "unique_users": 55
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 4808,
+      "click_impressions": 5442180,
+      "end_date": "2021-01-31",
+      "flood_conversions": 101019,
+      "flood_impressions": 5509365,
+      "frequency": 5,
+      "period": "month",
+      "reach": 1101873,
+      "start_date": "2021-01-01",
+      "unique_users": 1088436
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 240,
+      "click_impressions": 337338,
+      "end_date": "2021-01-31",
+      "flood_conversions": 5789,
+      "flood_impressions": 332208,
+      "frequency": 18,
+      "period": "month",
+      "reach": 18456,
+      "start_date": "2021-01-01",
+      "unique_users": 18741
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 27,
+      "click_impressions": 63882,
+      "end_date": "2021-01-31",
+      "flood_impressions": 58227,
+      "frequency": 39,
+      "period": "month",
+      "reach": 1493,
+      "start_date": "2021-01-01",
+      "unique_users": 1638
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 19,
+      "click_impressions": 37680,
+      "end_date": "2021-01-31",
+      "flood_impressions": 36000,
+      "frequency": 48,
+      "period": "month",
+      "reach": 750,
+      "start_date": "2021-01-01",
+      "unique_users": 785
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 15,
+      "click_impressions": 34349,
+      "end_date": "2021-01-31",
+      "flood_impressions": 32928,
+      "frequency": 49,
+      "period": "month",
+      "reach": 672,
+      "start_date": "2021-01-01",
+      "unique_users": 701
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 15500,
+      "end_date": "2021-01-31",
+      "flood_impressions": 14818,
+      "frequency": 62,
+      "period": "month",
+      "reach": 239,
+      "start_date": "2021-01-01",
+      "unique_users": 250
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 1,
+      "click_impressions": 9052,
+      "end_date": "2021-01-31",
+      "flood_impressions": 8687,
+      "frequency": 73,
+      "period": "month",
+      "reach": 119,
+      "start_date": "2021-01-01",
+      "unique_users": 124
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 9360,
+      "end_date": "2021-01-31",
+      "flood_impressions": 9072,
+      "frequency": 72,
+      "period": "month",
+      "reach": 126,
+      "start_date": "2021-01-01",
+      "unique_users": 130
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 2,
+      "click_impressions": 11390,
+      "end_date": "2021-01-31",
+      "flood_impressions": 6030,
+      "frequency": 67,
+      "period": "month",
+      "reach": 90,
+      "start_date": "2021-01-01",
+      "unique_users": 170
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 55,
+      "click_impressions": 114240,
+      "end_date": "2021-01-31",
+      "flood_conversions": 259,
+      "flood_impressions": 110910,
+      "frequency": 30,
+      "period": "month",
+      "reach": 3697,
+      "start_date": "2021-01-01",
+      "unique_users": 3808
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 42,
+      "click_impressions": 83232,
+      "end_date": "2021-01-31",
+      "flood_impressions": 74528,
+      "frequency": 34,
+      "period": "month",
+      "reach": 2192,
+      "start_date": "2021-01-01",
+      "unique_users": 2448
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 59,
+      "click_impressions": 140805,
+      "end_date": "2021-01-31",
+      "flood_conversions": 621,
+      "flood_impressions": 127953,
+      "frequency": 27,
+      "period": "month",
+      "reach": 4739,
+      "start_date": "2021-01-01",
+      "unique_users": 5215
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 4,
+      "click_impressions": 26895,
+      "end_date": "2021-01-31",
+      "flood_impressions": 25685,
+      "frequency": 55,
+      "period": "month",
+      "reach": 467,
+      "start_date": "2021-01-01",
+      "unique_users": 489
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 16,
+      "click_impressions": 46870,
+      "end_date": "2021-01-31",
+      "flood_impressions": 44935,
+      "frequency": 43,
+      "period": "month",
+      "reach": 1045,
+      "start_date": "2021-01-01",
+      "unique_users": 1090
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 47226,
+      "click_impressions": 37988168,
+      "end_date": "2021-01-31",
+      "flood_conversions": 417073,
+      "flood_impressions": 38056923,
+      "frequency": 1,
+      "period": "month",
+      "reach": 38056923,
+      "start_date": "2021-01-01",
+      "unique_users": 37988168
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 17690,
+      "click_impressions": 19293634,
+      "end_date": "2021-01-31",
+      "flood_conversions": 261508,
+      "flood_impressions": 19380764,
+      "frequency": 2,
+      "period": "month",
+      "reach": 9690382,
+      "start_date": "2021-01-01",
+      "unique_users": 9646817
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 3309,
+      "click_impressions": 3851142,
+      "end_date": "2021-01-31",
+      "flood_conversions": 79896,
+      "flood_impressions": 3903180,
+      "frequency": 6,
+      "period": "month",
+      "reach": 650530,
+      "start_date": "2021-01-01",
+      "unique_users": 641857
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 445,
+      "click_impressions": 599858,
+      "end_date": "2021-01-31",
+      "flood_conversions": 10208,
+      "flood_impressions": 593586,
+      "frequency": 14,
+      "period": "month",
+      "reach": 42399,
+      "start_date": "2021-01-01",
+      "unique_users": 42847
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 360,
+      "click_impressions": 505515,
+      "end_date": "2021-01-31",
+      "flood_conversions": 6144,
+      "flood_impressions": 501015,
+      "frequency": 15,
+      "period": "month",
+      "reach": 33401,
+      "start_date": "2021-01-01",
+      "unique_users": 33701
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 109,
+      "click_impressions": 185904,
+      "end_date": "2021-01-31",
+      "flood_conversions": 875,
+      "flood_impressions": 172704,
+      "frequency": 24,
+      "period": "month",
+      "reach": 7196,
+      "start_date": "2021-01-01",
+      "unique_users": 7746
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 67,
+      "click_impressions": 131600,
+      "end_date": "2021-01-31",
+      "flood_conversions": 666,
+      "flood_impressions": 125356,
+      "frequency": 28,
+      "period": "month",
+      "reach": 4477,
+      "start_date": "2021-01-01",
+      "unique_users": 4700
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 26,
+      "click_impressions": 49854,
+      "end_date": "2021-01-31",
+      "flood_impressions": 47376,
+      "frequency": 42,
+      "period": "month",
+      "reach": 1128,
+      "start_date": "2021-01-01",
+      "unique_users": 1187
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 12,
+      "click_impressions": 41170,
+      "end_date": "2021-01-31",
+      "flood_impressions": 39330,
+      "frequency": 46,
+      "period": "month",
+      "reach": 855,
+      "start_date": "2021-01-01",
+      "unique_users": 895
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 9,
+      "click_impressions": 22800,
+      "end_date": "2021-01-31",
+      "flood_impressions": 18660,
+      "frequency": 60,
+      "period": "month",
+      "reach": 311,
+      "start_date": "2021-01-01",
+      "unique_users": 380
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 3900,
+      "end_date": "2021-01-31",
+      "flood_impressions": 3900,
+      "frequency": 75,
+      "period": "month",
+      "reach": 52,
+      "start_date": "2021-01-01",
+      "unique_users": 52
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 5,
+      "click_impressions": 9870,
+      "end_date": "2021-01-31",
+      "flood_impressions": 9380,
+      "frequency": 70,
+      "period": "month",
+      "reach": 134,
+      "start_date": "2021-01-01",
+      "unique_users": 141
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 3,
+      "click_impressions": 8284,
+      "end_date": "2021-01-31",
+      "flood_impressions": 7904,
+      "frequency": 76,
+      "period": "month",
+      "reach": 104,
+      "start_date": "2021-01-01",
+      "unique_users": 109
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 171,
+      "click_impressions": 223212,
+      "end_date": "2021-01-31",
+      "flood_conversions": 1434,
+      "flood_impressions": 215996,
+      "frequency": 22,
+      "period": "month",
+      "reach": 9818,
+      "start_date": "2021-01-01",
+      "unique_users": 10146
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 20,
+      "click_impressions": 62624,
+      "end_date": "2021-01-31",
+      "flood_impressions": 59926,
+      "frequency": 38,
+      "period": "month",
+      "reach": 1577,
+      "start_date": "2021-01-01",
+      "unique_users": 1648
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 15,
+      "click_impressions": 46464,
+      "end_date": "2021-01-31",
+      "flood_impressions": 40524,
+      "frequency": 44,
+      "period": "month",
+      "reach": 921,
+      "start_date": "2021-01-01",
+      "unique_users": 1056
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 8,
+      "click_impressions": 33813,
+      "end_date": "2021-01-31",
+      "flood_impressions": 32742,
+      "frequency": 51,
+      "period": "month",
+      "reach": 642,
+      "start_date": "2021-01-01",
+      "unique_users": 663
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 8,
+      "click_impressions": 23598,
+      "end_date": "2021-01-31",
+      "flood_impressions": 22287,
+      "frequency": 57,
+      "period": "month",
+      "reach": 391,
+      "start_date": "2021-01-01",
+      "unique_users": 414
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 3,
+      "click_impressions": 9570,
+      "end_date": "2021-01-31",
+      "flood_impressions": 9240,
+      "frequency": 66,
+      "period": "month",
+      "reach": 140,
+      "start_date": "2021-01-01",
+      "unique_users": 145
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 10508,
+      "end_date": "2021-01-31",
+      "flood_impressions": 10434,
+      "frequency": 74,
+      "period": "month",
+      "reach": 141,
+      "start_date": "2021-01-01",
+      "unique_users": 142
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 67,
+      "click_impressions": 124178,
+      "end_date": "2021-01-31",
+      "flood_conversions": 496,
+      "flood_impressions": 121655,
+      "frequency": 29,
+      "period": "month",
+      "reach": 4195,
+      "start_date": "2021-01-01",
+      "unique_users": 4282
+    },
+    {
+      "account": "bmw",
+      "click_conversions": 168,
+      "click_impressions": 272640,
+      "end_date": "2021-01-31",
+      "flood_conversions": 2311,
+      "flood_impressions": 262980,
+      "frequency": 20,
+      "period": "month",
+      "reach": 13149,
+      "start_date": "2021-01-01",
+      "unique_users": 13632
+    },
+    {
+      "account": "bmw",
+      "click_impressions": 4240,
+      "end_date": "2021-01-31",
+      "flood_impressions": 4080,
+      "frequency": 80,
+      "period": "month",
+      "reach": 51,
+      "start_date": "2021-01-01",
+      "unique_users": 53
+    }
+  ],
+  "filters_data": {
+    "activity_list": [
+      {
+        "activity": "mini page visit - countryman - page load",
+        "activity_id": "8563936"
+      },
+      {
+        "activity": "mini page visit - oxford edition - landing page - page load",
+        "activity_id": "6725663"
+      },
+      {
+        "activity": "mini page visit - configurator visit - hardtop 2 door cooper jcw - page load",
+        "activity_id": "6730024"
+      },
+      {
+        "activity": "mini page visit - build a new model - landing page visit - page load",
+        "activity_id": "7929284"
+      },
+      {
+        "activity": "mini page visit - special offers page visit - page load",
+        "activity_id": "6728056"
+      },
+      {
+        "activity": "mini|cooper se|configurator|landing page|page load",
+        "activity_id": "10654431"
+      },
+      {
+        "activity": "mini|countryman|model page|landing page|page load",
+        "activity_id": "10656402"
+      },
+      {
+        "activity": "mini page visit - miniusa homepage visit - page load",
+        "activity_id": "6729130"
+      },
+      {
+        "activity": "mini|mini page url|all pages|landing page|page load",
+        "activity_id": "10215070"
+      },
+      {
+        "activity": "mini page visit - model page visit - hardtop 2 door - page load",
+        "activity_id": "6685137"
+      },
+      {
+        "activity": "mini page visit - 2019 mini electric - page load",
+        "activity_id": "8626467"
+      },
+      {
+        "activity": "mini page visit - mini performance - landing page visit - page load",
+        "activity_id": "6687624"
+      },
+      {
+        "activity": "mini page visit - configurator visit - configurator parts added - button click",
+        "activity_id": "7932755"
+      },
+      {
+        "activity": "mini|electric hardtop|model page|landing page|page load",
+        "activity_id": "10656124"
+      },
+      {
+        "activity": "mini page visit - tier 3 site visit - page load",
+        "activity_id": "6686706"
+      },
+      {
+        "activity": "mini page visit - find a dealer - page visit - page load",
+        "activity_id": "6726221"
+      },
+      {
+        "activity": "mini page visit - model page visit - clubman - page load",
+        "activity_id": "6725657"
+      },
+      {
+        "activity": "mini page visit - southern page visit - countryman - page load",
+        "activity_id": "7026842"
+      },
+      {
+        "activity": "bmwusa|nyfw|beyond the shows|landing page|page load",
+        "activity_id": "8926708"
+      },
+      {
+        "activity": "bmwusa|nyfw|back of house|landing page|page load",
+        "activity_id": "8919920"
+      },
+      {
+        "activity": "mini_dealer vehicle details brand tier 3 tags",
+        "activity_id": "3047727"
+      },
+      {
+        "activity": "mini_dealer inventory brand tier 3 tags",
+        "activity_id": "3047728"
+      },
+      {
+        "activity": "mini_dealer homepage brand tier 3 tags",
+        "activity_id": "3045115"
+      },
+      {
+        "activity": "bmwusa|tier 2|sav|landing page|page load [al]",
+        "activity_id": "9547876"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift homepage v2",
+        "activity_id": "7947459"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift lead submit button",
+        "activity_id": "6585993"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift homepage",
+        "activity_id": "6610864"
+      },
+      {
+        "activity": "mini_build your own all models",
+        "activity_id": "2998635"
+      },
+      {
+        "activity": "missouri bmw tier 3 kansas city south bmw home page",
+        "activity_id": "6907720"
+      },
+      {
+        "activity": "ohio bmw tier 3 bmw of cincinnati north home page",
+        "activity_id": "6898871"
+      },
+      {
+        "activity": "ohio bmw tier 3 kelly bmw home page",
+        "activity_id": "6899393"
+      },
+      {
+        "activity": "mini_2findadealer",
+        "activity_id": "2992826"
+      },
+      {
+        "activity": "bmwusa|7 series|sedan|overview|page load",
+        "activity_id": "9540918"
+      },
+      {
+        "activity": "bmwcpo|cpo|zip code|landing page|page load",
+        "activity_id": "10577605"
+      },
+      {
+        "activity": "bmwcpo|cpo|homepage|homepage|page load",
+        "activity_id": "10261361"
+      },
+      {
+        "activity": "bmwcpo|cpo|inventory|details page|page load",
+        "activity_id": "10260932"
+      },
+      {
+        "activity": "bmwcpo|cpo|inventory|results page|page load",
+        "activity_id": "10301169"
+      },
+      {
+        "activity": "bmwcpo|cpo|offers|special offers|page load",
+        "activity_id": "10399746"
+      },
+      {
+        "activity": "bmwusa ooo: bmw aftersales performance lp – page load",
+        "activity_id": "8807562"
+      },
+      {
+        "activity": "bmwusa_urban science_offline conversions_landing page_page load",
+        "activity_id": "9645379"
+      },
+      {
+        "activity": "mini_oxford_landing page_page load",
+        "activity_id": "6639838"
+      },
+      {
+        "activity": "bmwusa|innovations|stories|landing page|button click|video play [al]",
+        "activity_id": "9540933"
+      },
+      {
+        "activity": "charlotte bmw tier 3 hendrick bmw northlake home page",
+        "activity_id": "6209146"
+      },
+      {
+        "activity": "bmwusa level 2 : byo completes - button click",
+        "activity_id": "7911089"
+      },
+      {
+        "activity": "bmwusa level 2|level action|dealer locator searches|landing page|button click",
+        "activity_id": "9541152"
+      },
+      {
+        "activity": "bmwusa level 2|level action|exits to dealer website|landing page|button click",
+        "activity_id": "9548062"
+      },
+      {
+        "activity": "bmwusa level 2|level action|inventory searches|landing page|page load",
+        "activity_id": "9546916"
+      },
+      {
+        "activity": "bmwusa level 2|level action|estimate a payment|landing page|button click",
+        "activity_id": "9548059"
+      },
+      {
+        "activity": "bmwusa level 2|level action|byo completes|confirmation page|button click",
+        "activity_id": "9625936"
+      },
+      {
+        "activity": "mini_step 4 search mini next inventory results",
+        "activity_id": "2992837"
+      },
+      {
+        "activity": "bmwusa|x7|overview|overview|page load",
+        "activity_id": "9541146"
+      },
+      {
+        "activity": "bmwusa level 1 : save/print byo builds - button click",
+        "activity_id": "7911092"
+      },
+      {
+        "activity": "bmwusa level 1|level action|save/print byo builds|confirmation page|button click",
+        "activity_id": "9548056"
+      },
+      {
+        "activity": "bmwusa level 1 : byo starts - page load",
+        "activity_id": "7897539"
+      },
+      {
+        "activity": "bmwusa level 1|level action|mybmw signu|confirmation page|button click",
+        "activity_id": "9547666"
+      },
+      {
+        "activity": "bmwusa level 1|level action|byo starts|homepage|page load",
+        "activity_id": "9618357"
+      },
+      {
+        "activity": "bmwusa level 1|level action|local offer views|landing page|page load",
+        "activity_id": "9541149"
+      },
+      {
+        "activity": "bmwusa|byo retargeting|build your own|landing page|page load",
+        "activity_id": "9534342"
+      },
+      {
+        "activity": "bmwusa|8 series|overview|overview|page load",
+        "activity_id": "9548047"
+      },
+      {
+        "activity": "bmw_dynamictieriii_shopper",
+        "activity_id": "1155376"
+      },
+      {
+        "activity": "bmwusa|bmw page url|all pages|landing page|page load",
+        "activity_id": "9784585"
+      },
+      {
+        "activity": "bmwusa|ix|handraiser|overview|button click|signup",
+        "activity_id": "10493011"
+      },
+      {
+        "activity": "bmwcpo level 2|level action|inventory searches|landing page|page load",
+        "activity_id": "10393740"
+      },
+      {
+        "activity": "bmwusa|4 series|overview|overview|page load",
+        "activity_id": "9674423"
+      },
+      {
+        "activity": "bmwusaoos|bmwvalueservice|valueservice|landing page|page load",
+        "activity_id": "9786403"
+      },
+      {
+        "activity": "bmwusa|bmwusa|bmwusahomepage|homepage|page load",
+        "activity_id": "9721290"
+      },
+      {
+        "activity": "bmwcpo level 2|level action|exits to dealer website|landing page|button click",
+        "activity_id": "10353452"
+      },
+      {
+        "activity": "bmwusa|5 series|overview|overview|page load",
+        "activity_id": "9674426"
+      },
+      {
+        "activity": "bmwcpo|cpo|2017 x5 inventory|results page|page load",
+        "activity_id": "10510391"
+      },
+      {
+        "activity": "bmwusa|ix|overview|overview|page load",
+        "activity_id": "10452632"
+      },
+      {
+        "activity": "bmwusa|x6|overview|overview|page load",
+        "activity_id": "9722652"
+      },
+      {
+        "activity": "bmwusa|i8|overview|overview|page load",
+        "activity_id": "9738286"
+      },
+      {
+        "activity": "bmwusa|x4|overview|overview|page load",
+        "activity_id": "9722994"
+      },
+      {
+        "activity": "bmwusa|i3|overview|overview|page load",
+        "activity_id": "9675071"
+      },
+      {
+        "activity": "bmwusa|bmw san antonio|global tag|landing page|page load",
+        "activity_id": "9852254"
+      },
+      {
+        "activity": "bmwusa|z4|overview|overview|page load",
+        "activity_id": "9721287"
+      },
+      {
+        "activity": "bmwusa|x3|overview|overview|page load",
+        "activity_id": "9722991"
+      },
+      {
+        "activity": "bmwusa|x5|overview|overview|page load",
+        "activity_id": "9674417"
+      },
+      {
+        "activity": "bmwusa|x1|overview|overview|page load",
+        "activity_id": "9721848"
+      },
+      {
+        "activity": "bmwusa|m-models|overview|overview|page load",
+        "activity_id": "9674537"
+      },
+      {
+        "activity": "bmwusa|3 series|overview|overview|page load",
+        "activity_id": "9674420"
+      },
+      {
+        "activity": "mini_homepage spotlight tag",
+        "activity_id": "2991716"
+      },
+      {
+        "activity": "bmwusa|phev|phev homepage|homepage|page load",
+        "activity_id": "9488168"
+      },
+      {
+        "activity": "bmwusa|phev|x3 phev|landing page|page load",
+        "activity_id": "9528945"
+      },
+      {
+        "activity": "mini_performance top feature spotlight tag",
+        "activity_id": "2997185"
+      },
+      {
+        "activity": "mini_special offers page",
+        "activity_id": "2995627"
+      },
+      {
+        "activity": "bmw tier 3 denver - bmw of denver downtown tier 3 home page",
+        "activity_id": "6674379"
+      },
+      {
+        "activity": "bmw tier 3 socal - long beach bmw tier 3 home page",
+        "activity_id": "6672315"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of san francisco tier 3 home page",
+        "activity_id": "6712282"
+      },
+      {
+        "activity": "bmw tier 3 socal - center bmw tier 3 home page",
+        "activity_id": "6707195"
+      },
+      {
+        "activity": "bmw tier 3 socal - bmw of monrovia tier 3 home page",
+        "activity_id": "6704990"
+      },
+      {
+        "activity": "bmw tier 3 socal - south bay bmw tier 3 home page",
+        "activity_id": "6671952"
+      },
+      {
+        "activity": "bmw tier 3 socal - mckenna bmw tier 3 home page",
+        "activity_id": "6705353"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of mountain view tier 3 home page",
+        "activity_id": "6674376"
+      },
+      {
+        "activity": "bmw tier 3 san diego - bmw encinitas tier 3 home page",
+        "activity_id": "6674781"
+      },
+      {
+        "activity": "bmw tier 3 portland - bmw portland tier 3 home page",
+        "activity_id": "6707906"
+      },
+      {
+        "activity": "bmw tier 3 portland - bmw of salem tier 3 home page",
+        "activity_id": "6709670"
+      },
+      {
+        "activity": "bmw tier 3 socal - santa monica bmw tier 3 home page",
+        "activity_id": "6705269"
+      },
+      {
+        "activity": "bmw tier 3 socal - nick alexander imports tier 3 home page",
+        "activity_id": "6672312"
+      },
+      {
+        "activity": "bmw tier 3 socal - bob smith bmw tier 3 home page",
+        "activity_id": "6705266"
+      },
+      {
+        "activity": "bmw tier 3 socal - valencia bmw tier 3 home page",
+        "activity_id": "6705644"
+      },
+      {
+        "activity": "bmw tier 3 sacramento modesto - bmw of roseville tier 3 home page",
+        "activity_id": "6705374"
+      },
+      {
+        "activity": "bmw tier 3 honolulu - bmw of honolulu tier 3 home page",
+        "activity_id": "6672393"
+      },
+      {
+        "activity": "bmw tier 3 socal - new century bmw tier 3 home page",
+        "activity_id": "6705641"
+      },
+      {
+        "activity": "bmw tier 3 seattle - bmw of bellevue tier 3 home page",
+        "activity_id": "6709901"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of fremont (autonation bmw of fremont) tier 3 home page",
+        "activity_id": "6674772"
+      },
+      {
+        "activity": "bmw tier 3 seattle - bmw seattle tier 3 home page",
+        "activity_id": "6705368"
+      },
+      {
+        "activity": "bmw tier 3 las vegas - bmw of las vegas tier 3 home page",
+        "activity_id": "6705260"
+      },
+      {
+        "activity": "bmw tier 3 denver - cos bmw center tier 3 home page",
+        "activity_id": "6705917"
+      },
+      {
+        "activity": "bmw tier 3 denver - schomp bmw of highlands ranch tier 3 home page",
+        "activity_id": "6675012"
+      },
+      {
+        "activity": "bmw tier 3 bay area - stevens creek bmw tier 3 home page",
+        "activity_id": "6705362"
+      },
+      {
+        "activity": "mini|cooper se|configurator|landing page|page load",
+        "activity_id": "10654431"
+      },
+      {
+        "activity": "mini page visit - find a dealer - page visit - page load",
+        "activity_id": "6726221"
+      },
+      {
+        "activity": "mini page visit - countryman - page load",
+        "activity_id": "8563936"
+      },
+      {
+        "activity": "mini|countryman|model page|landing page|page load",
+        "activity_id": "10656402"
+      },
+      {
+        "activity": "mini|mini page url|all pages|landing page|page load",
+        "activity_id": "10215070"
+      },
+      {
+        "activity": "mini page visit - 2019 mini electric - page load",
+        "activity_id": "8626467"
+      },
+      {
+        "activity": "mini page visit - build a new model - landing page visit - page load",
+        "activity_id": "7929284"
+      },
+      {
+        "activity": "mini page visit - tier 3 site visit - page load",
+        "activity_id": "6686706"
+      },
+      {
+        "activity": "mini page visit - special offers page visit - page load",
+        "activity_id": "6728056"
+      },
+      {
+        "activity": "mini page visit - miniusa homepage visit - page load",
+        "activity_id": "6729130"
+      },
+      {
+        "activity": "mini page visit - model page visit - clubman - page load",
+        "activity_id": "6725657"
+      },
+      {
+        "activity": "mini page visit - southern page visit - countryman - page load",
+        "activity_id": "7026842"
+      },
+      {
+        "activity": "mini page visit - configurator visit - hardtop 2 door cooper jcw - page load",
+        "activity_id": "6730024"
+      },
+      {
+        "activity": "mini page visit - oxford edition - landing page - page load",
+        "activity_id": "6725663"
+      },
+      {
+        "activity": "mini|electric hardtop|model page|landing page|page load",
+        "activity_id": "10656124"
+      },
+      {
+        "activity": "mini page visit - model page visit - hardtop 2 door - page load",
+        "activity_id": "6685137"
+      },
+      {
+        "activity": "mini page visit - mini performance - landing page visit - page load",
+        "activity_id": "6687624"
+      },
+      {
+        "activity": "mini page visit - configurator visit - configurator parts added - button click",
+        "activity_id": "7932755"
+      },
+      {
+        "activity": "bmwusa|nyfw|beyond the shows|landing page|page load",
+        "activity_id": "8926708"
+      },
+      {
+        "activity": "bmwusa|nyfw|back of house|landing page|page load",
+        "activity_id": "8919920"
+      },
+      {
+        "activity": "mini_dealer inventory brand tier 3 tags",
+        "activity_id": "3047728"
+      },
+      {
+        "activity": "mini_dealer vehicle details brand tier 3 tags",
+        "activity_id": "3047727"
+      },
+      {
+        "activity": "mini_dealer homepage brand tier 3 tags",
+        "activity_id": "3045115"
+      },
+      {
+        "activity": "bmwusa|tier 2|sav|landing page|page load [al]",
+        "activity_id": "9547876"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift homepage v2",
+        "activity_id": "7947459"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift lead submit button",
+        "activity_id": "6585993"
+      },
+      {
+        "activity": "bmw tier 3: tier 3 shift homepage",
+        "activity_id": "6610864"
+      },
+      {
+        "activity": "mini_build your own all models",
+        "activity_id": "2998635"
+      },
+      {
+        "activity": "ohio bmw tier 3 kelly bmw home page",
+        "activity_id": "6899393"
+      },
+      {
+        "activity": "missouri bmw tier 3 kansas city south bmw home page",
+        "activity_id": "6907720"
+      },
+      {
+        "activity": "ohio bmw tier 3 bmw of cincinnati north home page",
+        "activity_id": "6898871"
+      },
+      {
+        "activity": "mini_2findadealer",
+        "activity_id": "2992826"
+      },
+      {
+        "activity": "bmwusa|7 series|sedan|overview|page load",
+        "activity_id": "9540918"
+      },
+      {
+        "activity": "bmwcpo|cpo|homepage|homepage|page load",
+        "activity_id": "10261361"
+      },
+      {
+        "activity": "bmwcpo|cpo|inventory|results page|page load",
+        "activity_id": "10301169"
+      },
+      {
+        "activity": "bmwcpo|cpo|zip code|landing page|page load",
+        "activity_id": "10577605"
+      },
+      {
+        "activity": "bmwcpo|cpo|offers|special offers|page load",
+        "activity_id": "10399746"
+      },
+      {
+        "activity": "bmwcpo|cpo|inventory|details page|page load",
+        "activity_id": "10260932"
+      },
+      {
+        "activity": "bmwusa ooo: bmw aftersales performance lp – page load",
+        "activity_id": "8807562"
+      },
+      {
+        "activity": "bmwusa_urban science_offline conversions_landing page_page load",
+        "activity_id": "9645379"
+      },
+      {
+        "activity": "mini_oxford_landing page_page load",
+        "activity_id": "6639838"
+      },
+      {
+        "activity": "bmwusa|innovations|stories|landing page|button click|video play [al]",
+        "activity_id": "9540933"
+      },
+      {
+        "activity": "charlotte bmw tier 3 hendrick bmw northlake home page",
+        "activity_id": "6209146"
+      },
+      {
+        "activity": "bmwusa level 2 : byo completes - button click",
+        "activity_id": "7911089"
+      },
+      {
+        "activity": "bmwusa level 2|level action|exits to dealer website|landing page|button click",
+        "activity_id": "9548062"
+      },
+      {
+        "activity": "bmwusa level 2|level action|dealer locator searches|landing page|button click",
+        "activity_id": "9541152"
+      },
+      {
+        "activity": "bmwusa level 2|level action|estimate a payment|landing page|button click",
+        "activity_id": "9548059"
+      },
+      {
+        "activity": "bmwusa level 2|level action|byo completes|confirmation page|button click",
+        "activity_id": "9625936"
+      },
+      {
+        "activity": "bmwusa level 2|level action|inventory searches|landing page|page load",
+        "activity_id": "9546916"
+      },
+      {
+        "activity": "mini_step 4 search mini next inventory results",
+        "activity_id": "2992837"
+      },
+      {
+        "activity": "bmwusa|x7|overview|overview|page load",
+        "activity_id": "9541146"
+      },
+      {
+        "activity": "bmwusa level 1|level action|mybmw signu|confirmation page|button click",
+        "activity_id": "9547666"
+      },
+      {
+        "activity": "bmwusa level 1 : save/print byo builds - button click",
+        "activity_id": "7911092"
+      },
+      {
+        "activity": "bmwusa level 1|level action|save/print byo builds|confirmation page|button click",
+        "activity_id": "9548056"
+      },
+      {
+        "activity": "bmwusa level 1|level action|byo starts|homepage|page load",
+        "activity_id": "9618357"
+      },
+      {
+        "activity": "bmwusa level 1|level action|local offer views|landing page|page load",
+        "activity_id": "9541149"
+      },
+      {
+        "activity": "bmwusa level 1 : byo starts - page load",
+        "activity_id": "7897539"
+      },
+      {
+        "activity": "bmwusa|byo retargeting|build your own|landing page|page load",
+        "activity_id": "9534342"
+      },
+      {
+        "activity": "bmwusa|8 series|overview|overview|page load",
+        "activity_id": "9548047"
+      },
+      {
+        "activity": "bmw_dynamictieriii_shopper",
+        "activity_id": "1155376"
+      },
+      {
+        "activity": "bmwusa|ix|handraiser|overview|button click|signup",
+        "activity_id": "10493011"
+      },
+      {
+        "activity": "bmwusa|bmw san antonio|global tag|landing page|page load",
+        "activity_id": "9852254"
+      },
+      {
+        "activity": "bmwusa|x4|overview|overview|page load",
+        "activity_id": "9722994"
+      },
+      {
+        "activity": "bmwusa|ix|overview|overview|page load",
+        "activity_id": "10452632"
+      },
+      {
+        "activity": "bmwusa|x6|overview|overview|page load",
+        "activity_id": "9722652"
+      },
+      {
+        "activity": "bmwcpo|cpo|2017 x5 inventory|results page|page load",
+        "activity_id": "10510391"
+      },
+      {
+        "activity": "bmwusa|i3|overview|overview|page load",
+        "activity_id": "9675071"
+      },
+      {
+        "activity": "bmwusa|bmw page url|all pages|landing page|page load",
+        "activity_id": "9784585"
+      },
+      {
+        "activity": "bmwcpo level 2|level action|inventory searches|landing page|page load",
+        "activity_id": "10393740"
+      },
+      {
+        "activity": "bmwusa|z4|overview|overview|page load",
+        "activity_id": "9721287"
+      },
+      {
+        "activity": "bmwusa|x5|overview|overview|page load",
+        "activity_id": "9674417"
+      },
+      {
+        "activity": "bmwusa|x3|overview|overview|page load",
+        "activity_id": "9722991"
+      },
+      {
+        "activity": "bmwusa|4 series|overview|overview|page load",
+        "activity_id": "9674423"
+      },
+      {
+        "activity": "bmwusa|x1|overview|overview|page load",
+        "activity_id": "9721848"
+      },
+      {
+        "activity": "bmwusa|i8|overview|overview|page load",
+        "activity_id": "9738286"
+      },
+      {
+        "activity": "bmwusaoos|bmwvalueservice|valueservice|landing page|page load",
+        "activity_id": "9786403"
+      },
+      {
+        "activity": "bmwusa|bmwusa|bmwusahomepage|homepage|page load",
+        "activity_id": "9721290"
+      },
+      {
+        "activity": "bmwcpo level 2|level action|exits to dealer website|landing page|button click",
+        "activity_id": "10353452"
+      },
+      {
+        "activity": "bmwusa|m-models|overview|overview|page load",
+        "activity_id": "9674537"
+      },
+      {
+        "activity": "bmwusa|3 series|overview|overview|page load",
+        "activity_id": "9674420"
+      },
+      {
+        "activity": "bmwusa|5 series|overview|overview|page load",
+        "activity_id": "9674426"
+      },
+      {
+        "activity": "mini_homepage spotlight tag",
+        "activity_id": "2991716"
+      },
+      {
+        "activity": "bmwusa|phev|x3 phev|landing page|page load",
+        "activity_id": "9528945"
+      },
+      {
+        "activity": "bmwusa|phev|phev homepage|homepage|page load",
+        "activity_id": "9488168"
+      },
+      {
+        "activity": "mini_performance top feature spotlight tag",
+        "activity_id": "2997185"
+      },
+      {
+        "activity": "mini_special offers page",
+        "activity_id": "2995627"
+      },
+      {
+        "activity": "bmw tier 3 socal - nick alexander imports tier 3 home page",
+        "activity_id": "6672312"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of fremont (autonation bmw of fremont) tier 3 home page",
+        "activity_id": "6674772"
+      },
+      {
+        "activity": "bmw tier 3 seattle - bmw of bellevue tier 3 home page",
+        "activity_id": "6709901"
+      },
+      {
+        "activity": "bmw tier 3 sacramento modesto - bmw of roseville tier 3 home page",
+        "activity_id": "6705374"
+      },
+      {
+        "activity": "bmw tier 3 socal - santa monica bmw tier 3 home page",
+        "activity_id": "6705269"
+      },
+      {
+        "activity": "bmw tier 3 honolulu - bmw of honolulu tier 3 home page",
+        "activity_id": "6672393"
+      },
+      {
+        "activity": "bmw tier 3 socal - long beach bmw tier 3 home page",
+        "activity_id": "6672315"
+      },
+      {
+        "activity": "bmw tier 3 portland - bmw portland tier 3 home page",
+        "activity_id": "6707906"
+      },
+      {
+        "activity": "bmw tier 3 socal - valencia bmw tier 3 home page",
+        "activity_id": "6705644"
+      },
+      {
+        "activity": "bmw tier 3 denver - cos bmw center tier 3 home page",
+        "activity_id": "6705917"
+      },
+      {
+        "activity": "bmw tier 3 socal - center bmw tier 3 home page",
+        "activity_id": "6707195"
+      },
+      {
+        "activity": "bmw tier 3 denver - schomp bmw of highlands ranch tier 3 home page",
+        "activity_id": "6675012"
+      },
+      {
+        "activity": "bmw tier 3 san diego - bmw encinitas tier 3 home page",
+        "activity_id": "6674781"
+      },
+      {
+        "activity": "bmw tier 3 bay area - stevens creek bmw tier 3 home page",
+        "activity_id": "6705362"
+      },
+      {
+        "activity": "bmw tier 3 denver - bmw of denver downtown tier 3 home page",
+        "activity_id": "6674379"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of mountain view tier 3 home page",
+        "activity_id": "6674376"
+      },
+      {
+        "activity": "bmw tier 3 socal - south bay bmw tier 3 home page",
+        "activity_id": "6671952"
+      },
+      {
+        "activity": "bmw tier 3 socal - mckenna bmw tier 3 home page",
+        "activity_id": "6705353"
+      },
+      {
+        "activity": "bmw tier 3 seattle - bmw seattle tier 3 home page",
+        "activity_id": "6705368"
+      },
+      {
+        "activity": "bmw tier 3 socal - bob smith bmw tier 3 home page",
+        "activity_id": "6705266"
+      },
+      {
+        "activity": "bmw tier 3 portland - bmw of salem tier 3 home page",
+        "activity_id": "6709670"
+      },
+      {
+        "activity": "bmw tier 3 socal - bmw of monrovia tier 3 home page",
+        "activity_id": "6704990"
+      },
+      {
+        "activity": "bmw tier 3 socal - new century bmw tier 3 home page",
+        "activity_id": "6705641"
+      },
+      {
+        "activity": "bmw tier 3 las vegas - bmw of las vegas tier 3 home page",
+        "activity_id": "6705260"
+      },
+      {
+        "activity": "bmw tier 3 bay area - bmw of san francisco tier 3 home page",
+        "activity_id": "6712282"
+      }
+    ],
+    "campaign_list": [
+      {
+        "campaign": "20_fy_ds_1cxs_br___baton rouge",
+        "campaign_id": "23434800"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_orl__orlando",
+        "campaign_id": "24914963"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_cin__cincinnati",
+        "campaign_id": "23430011"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_okc__okc",
+        "campaign_id": "24984855"
+      },
+      {
+        "campaign": "20_q4_so_1bni_mini_foundational",
+        "campaign_id": "24689149"
+      },
+      {
+        "campaign": "20_fy_ds_1bni_nat_mini cpo",
+        "campaign_id": "23734530"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_gws__gws",
+        "campaign_id": "24882592"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_mem__memphis",
+        "campaign_id": "24882682"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_sd___san diego",
+        "campaign_id": "23437622"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_sta__san antonio",
+        "campaign_id": "23429300"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_tri__tri-state",
+        "campaign_id": "23403991"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_csp__colorado springs",
+        "campaign_id": "23453436"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_sam__santa maria",
+        "campaign_id": "24976494"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_bir__birmingham",
+        "campaign_id": "23423033"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_phi__delaware valley",
+        "campaign_id": "24914888"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_slo__san luis obispo",
+        "campaign_id": "23465568"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_slc__salt lake city",
+        "campaign_id": "23452977"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_har__connecticut",
+        "campaign_id": "24984663"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_gc___gulf coast",
+        "campaign_id": "24984720"
+      },
+      {
+        "campaign": "20_q4_ds_1bni_nat__financial services",
+        "campaign_id": "24900020"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_det__detroit",
+        "campaign_id": "23452446"
+      },
+      {
+        "campaign": "21_fy_ds_1bni_nat__mini cpo",
+        "campaign_id": "24965046"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_hsb__harrisburg",
+        "campaign_id": "24882631"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_kc___kansas city",
+        "campaign_id": "24924179"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_det__detroit",
+        "campaign_id": "24987306"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_slc__salt lake city",
+        "campaign_id": "24878248"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_ral__raleigh",
+        "campaign_id": "23406865"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_dal__dallas",
+        "campaign_id": "23405122"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_sf___bay area",
+        "campaign_id": "23452734"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_ftm__ft myers",
+        "campaign_id": "24882427"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_dal__dallas",
+        "campaign_id": "24976788"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_bak__bakersfield",
+        "campaign_id": "23452911"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_la___socal",
+        "campaign_id": "24908612"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_pit__pittsburgh",
+        "campaign_id": "24924413"
+      },
+      {
+        "campaign": "20_q4_ds_1bni_nat__extra mile",
+        "campaign_id": "25025066"
+      },
+      {
+        "campaign": "20_q4_ds_1bna_nat__black friday",
+        "campaign_id": "24931621"
+      },
+      {
+        "campaign": "20_q4_ds_1bna_nat__ix hpto",
+        "campaign_id": "25055296"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_ftm__ft myers",
+        "campaign_id": "23403640"
+      },
+      {
+        "campaign": "20_q4_ds_1bni_f60__countryman lci",
+        "campaign_id": "24742305"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_hou__houston",
+        "campaign_id": "24983904"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_pho__phoenix",
+        "campaign_id": "23453457"
+      },
+      {
+        "campaign": "21_fy_ds_1bmc_bmc_motorrad retail",
+        "campaign_id": "24874012"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_sav__savannah",
+        "campaign_id": "23445222"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_gws__gws",
+        "campaign_id": "23405161"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_sta__san antonio",
+        "campaign_id": "24986742"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_ral__raleigh",
+        "campaign_id": "24886384"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_nh___new hampshire",
+        "campaign_id": "23445183"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_hsb__harrisburg",
+        "campaign_id": "23406469"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_aus__austin",
+        "campaign_id": "23438721"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_stl__st louis",
+        "campaign_id": "23411680"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_wpb__wpb",
+        "campaign_id": "24985593"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_nh___new hampshire",
+        "campaign_id": "24914930"
+      },
+      {
+        "campaign": "21_fy_ds_1bpo_cpo__always on",
+        "campaign_id": "24975057"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_wdc__washington dc",
+        "campaign_id": "23406808"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_fre__fresno",
+        "campaign_id": "24974793"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_tri__tri-state",
+        "campaign_id": "24986163"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_sd___san diego",
+        "campaign_id": "24890479"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_pho__phoenix",
+        "campaign_id": "24910196"
+      },
+      {
+        "campaign": "20_34_ds_1cxc_res_regional cpo",
+        "campaign_id": "24494835"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_kc___kansas city",
+        "campaign_id": "23411620"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_den__denver",
+        "campaign_id": "24974757"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_new_new orleans",
+        "campaign_id": "24983955"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_atl__atlanta",
+        "campaign_id": "24877852"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_bal__baltimore",
+        "campaign_id": "24877888"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_den__denver",
+        "campaign_id": "23411686"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_mel__melbourne",
+        "campaign_id": "24882652"
+      },
+      {
+        "campaign": "20_q4_ds_1bna_nat__ix",
+        "campaign_id": "25152918"
+      },
+      {
+        "campaign": "21_fy_ov_1bna_bms__motorsports",
+        "campaign_id": "25205803"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_alb__albuquerque",
+        "campaign_id": "23452878"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_day__dayton",
+        "campaign_id": "23452845"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_sea__seattle",
+        "campaign_id": "24976491"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_orl__orlando",
+        "campaign_id": "23429285"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_chl__charlotte",
+        "campaign_id": "24976479"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_atl__atlanta",
+        "campaign_id": "23401450"
+      },
+      {
+        "campaign": "20_fy_ds_1bni_nat_foundational",
+        "campaign_id": "23438769"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_col__columbus",
+        "campaign_id": "23452419"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_bos__boston",
+        "campaign_id": "23403802"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_tam__tampa",
+        "campaign_id": "23445225"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_ind__indianapolis",
+        "campaign_id": "24986169"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_cle__cleveland",
+        "campaign_id": "23437229"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_stl__st louis",
+        "campaign_id": "24924218"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_nas__nashville",
+        "campaign_id": "24915971"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_gsp__greenville/asheville",
+        "campaign_id": "24882532"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_phi__delaware valley",
+        "campaign_id": "23403832"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_jac__jacksonville",
+        "campaign_id": "24985398"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_br___baton rouge",
+        "campaign_id": "24975045"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_wb___wilkes barre",
+        "campaign_id": "24889786"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_csp__colorado springs",
+        "campaign_id": "24974913"
+      },
+      {
+        "campaign": "20_q4_ds_1bni_nat_drive to rebel",
+        "campaign_id": "24700705"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_slo__san luis obispo",
+        "campaign_id": "24877840"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_aus__austin",
+        "campaign_id": "24908924"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_mia__miami",
+        "campaign_id": "24911651"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_tam__tampa",
+        "campaign_id": "24919472"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_lv___las vegas",
+        "campaign_id": "23424170"
+      },
+      {
+        "campaign": "18_fy_ds_1bni_nat__mini 2018 cpo",
+        "campaign_id": "20657514"
+      },
+      {
+        "campaign": "20_q1_ds_1bna_nat__2 series",
+        "campaign_id": "23446065"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_sam__santa maria",
+        "campaign_id": "23452800"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_sac__sacmod",
+        "campaign_id": "23411725"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_mem__memphis",
+        "campaign_id": "23429483"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_sav__savannah",
+        "campaign_id": "24986745"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_cle__cleveland",
+        "campaign_id": "24985374"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_wpb__wpb",
+        "campaign_id": "23446035"
+      },
+      {
+        "campaign": "20_34_ds_1bmc_bmc_r18",
+        "campaign_id": "24683253"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_day__dayton",
+        "campaign_id": "24985611"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_sac__sacmod",
+        "campaign_id": "24893341"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_mia__miami",
+        "campaign_id": "23403796"
+      },
+      {
+        "campaign": "20_fy_ds_1bpo_cpo__always on",
+        "campaign_id": "23436386"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_chl__charlotte",
+        "campaign_id": "23425709"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_fre__fresno",
+        "campaign_id": "23411677"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_pit__pittsburgh",
+        "campaign_id": "23452731"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_ind__indianapolis",
+        "campaign_id": "23453412"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_nor__norfolk",
+        "campaign_id": "24986697"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_mil__milwaukee",
+        "campaign_id": "23437529"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_chi__chicago",
+        "campaign_id": "23399810"
+      },
+      {
+        "campaign": "20_fy_ds_1cxc_min__minneapolis",
+        "campaign_id": "23452899"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_alb__albuquerque",
+        "campaign_id": "24908579"
+      },
+      {
+        "campaign": "21_q1_ov_1bni_nat__mini video",
+        "campaign_id": "24974781"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_por__portland",
+        "campaign_id": "24976497"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_pro__rhode island",
+        "campaign_id": "24987288"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_por__portland",
+        "campaign_id": "23412223"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_gai__gainesville",
+        "campaign_id": "24882454"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_min__minneapolis",
+        "campaign_id": "24894154"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_la___socal",
+        "campaign_id": "23441441"
+      },
+      {
+        "campaign": "20_fy_ds_1nt2_gen__nt2",
+        "campaign_id": "23739498"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_gc___gulf coast",
+        "campaign_id": "23405149"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_cin__cincinnati",
+        "campaign_id": "24882364"
+      },
+      {
+        "campaign": "21_fy_ds_1bni_nat__foundational",
+        "campaign_id": "24878164"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_bos__boston",
+        "campaign_id": "24914768"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_okc__okc",
+        "campaign_id": "23406643"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_mil__milwaukee",
+        "campaign_id": "24924185"
+      },
+      {
+        "campaign": "20_fy_ds_1cxe_bal__baltimore",
+        "campaign_id": "23403799"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_col__columbus",
+        "campaign_id": "24882691"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_bak__bakersfield",
+        "campaign_id": "24908615"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_chs__charleston",
+        "campaign_id": "24878272"
+      },
+      {
+        "campaign": "21_fy_ds_1cxc_chi__chicago",
+        "campaign_id": "24886339"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_hon__honolulu",
+        "campaign_id": "23412190"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_hon__honolulu",
+        "campaign_id": "24877822"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_lv___las vegas",
+        "campaign_id": "24974700"
+      },
+      {
+        "campaign": "20_fy_ds_1cxs_jac__jacksonville",
+        "campaign_id": "23405194"
+      },
+      {
+        "campaign": "21_fy_ds_1cxs_bir__birmingham",
+        "campaign_id": "24877891"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_wdc__washington dc",
+        "campaign_id": "24986736"
+      },
+      {
+        "campaign": "20_fy_ds_1bna_nat__edmunds",
+        "campaign_id": "23897397"
+      },
+      {
+        "campaign": "20_fy_ds_1bmc_bmc_fy retail",
+        "campaign_id": "23421945"
+      },
+      {
+        "campaign": "21_fy_ds_1cxe_spr__west springfield",
+        "campaign_id": "24987762"
+      },
+      {
+        "campaign": "20_fy_ds_1cxw_sea__seattle",
+        "campaign_id": "23437346"
+      },
+      {
+        "campaign": "21_fy_ds_1cxw_sf___bay area",
+        "campaign_id": "24910172"
+      }
+    ]
+  }
+}
